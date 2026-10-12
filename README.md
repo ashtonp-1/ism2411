@@ -1,2 +1,2 @@
 # ism2411
-# Class work for Business in python ism2411
+# Class work for Business for python ism2411
