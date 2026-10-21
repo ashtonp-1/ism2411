@@ -1,4 +1,0 @@
-(a). line 1
-(b). syntaxerror
-(c). '(' was never closed
-The reason the print didn't work was that the parentheses were not closed at the end, which resulted in a syntax error. The second attempt, which has the full pair "()" completing the string

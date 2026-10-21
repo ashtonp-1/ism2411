@@ -1,1 +1,0 @@
-print("Hello, my name's Ashton and i major in accounting")
