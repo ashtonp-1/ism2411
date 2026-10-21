@@ -1,0 +1,33 @@
+1. "C:\Users\ashto\Downloads\GameWatchSetup.exe" 
+(a) root=c:\ (b) chain=Users\ashto\Downloads\ (c)=GameWatchSetup (d)=.exe
+
+3. CPU-The processing power of the machine; able to do fast calculations. 
+RAM- Temporary storage for when you actually run programs that get sent to CPU.
+Storage- Permanent storage for files that can stay even when the computer is off. 
+File- Something that is saved onto whatever storage you're using. 
+Directory- A container that holds files and other folders. 
+Path- The tree that leads to a file from the root Extension- The Suffix of a file. 
+Program Interpreter- A program that reads code from the terminal
+
+4. * Data into a spreadsheet
+* Sorting data
+* Calculation
+-All of them can be done by a program
+
+5.
+/home/
+     |alice/
+          | projects/
+                  | q1_reports/
+                   |         |data/
+                   |         |    |sales.csv/
+                   |         |scrips/
+                   |               |summery.py/
+                    q2_reports/
+                              |data/
+                                   |sales.csv/
+
+6. 
+(a) RAM, the spreadsheet file was being edited while on temporary storage, so when the laptop died, the RAM went too
+(b) Something else: when the extension wasn't found, I typed in the path wrong
+(c) RAM- not enough usable RAM to run the script
