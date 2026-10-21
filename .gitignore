@@ -1,1 +1,10 @@
-
+.pyc
+__pycache__/
+.pyc
+.pyo
+.env
+.ehh-ingo/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea
